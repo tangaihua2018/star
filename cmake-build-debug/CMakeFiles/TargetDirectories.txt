@@ -1,0 +1,3 @@
+C:/Users/tangah/CLionProjects/star/cmake-build-debug/CMakeFiles/star.dir
+C:/Users/tangah/CLionProjects/star/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tangah/CLionProjects/star/cmake-build-debug/CMakeFiles/rebuild_cache.dir
